@@ -1,4 +1,4 @@
-This code is not mine. Original code is from link below.
+This code is not mine. Original code is from link below.<br>
 https://codesandbox.io/p/sandbox/nextjs-xstate-ssr-forked-6kct2r
 # Next.js + xstate in the real world
 
