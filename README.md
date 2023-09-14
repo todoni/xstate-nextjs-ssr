@@ -1,3 +1,5 @@
+This code is not mine. Original code is from link below.
+https://codesandbox.io/p/sandbox/nextjs-xstate-ssr-forked-6kct2r
 # Next.js + xstate in the real world
 
 This is a proof-of-concept around integrating xstate with Next.js.
