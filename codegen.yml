@@ -1,0 +1,4 @@
+schema: https://countries.trevorblades.com/
+generates:
+  src/types.ts:
+    - typescript
